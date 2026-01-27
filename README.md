@@ -29,12 +29,12 @@
 7. [Машинное обучение](https://github.com/Patineshka/ITMO_projects/tree/main/3%20курс/Машинное%20обучение)
 8. [Разработка приложений на Java](https://github.com/Patineshka/ITMO_projects/tree/main/3%20курс/Разработка%20приложений%20на%20Java)
 ## 4 курс 
-1. [Информационная безопасность](https://github.com/Patineshka/ITMO_projects/tree/main/3%20курс/Информационная%20безопасность)
-2. [Администрирование ОС Linux](https://github.com/Patineshka/ITMO_projects/tree/main/3%20курс/Администрирование%20ОС%20Linux)
-3. [Администрирование сетей Windows](https://github.com/Patineshka/ITMO_projects/tree/main/3%20курс/Администрирование%20сетей%20Windows)
-4. [Компьютерное зрение](https://github.com/Patineshka/ITMO_projects/tree/main/3%20курс/Компьютерное%20зрение)
-5. [Мобильные системы передачи данных](https://github.com/Patineshka/ITMO_projects/tree/main/3%20курс/Мобильные%20системы%20передачи%20данных)
-6. [Технологии командной разработки ПО](https://github.com/Patineshka/ITMO_projects/tree/main/3%20курс/Технологии%20командной%20разработки%20ПО)
+1. [Информационная безопасность](https://github.com/Patineshka/ITMO_projects/tree/main/4%20курс/Информационная%20безопасность)
+2. [Администрирование ОС Linux](https://github.com/Patineshka/ITMO_projects/tree/main/4%20курс/Администрирование%20ОС%20Linux)
+3. [Администрирование сетей Windows](https://github.com/Patineshka/ITMO_projects/tree/main/4%20курс/Администрирование%20сетей%20Windows)
+4. [Компьютерное зрение](https://github.com/Patineshka/ITMO_projects/tree/main/4%20курс/Компьютерное%20зрение)
+5. [Мобильные системы передачи данных](https://github.com/Patineshka/ITMO_projects/tree/main/4%20курс/Мобильные%20системы%20передачи%20данных)
+6. [Технологии командной разработки ПО](https://github.com/Patineshka/ITMO_projects/tree/main/4%20курс/Технологии%20командной%20разработки%20ПО)
 ---
 В настоящее время данный репозиторий пополняется, какие-то папки могут быть пустыми
 
